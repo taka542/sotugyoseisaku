@@ -37,4 +37,4 @@ MVP
 
 
 ■ 機能の実装方針予定
-Rails,Ruby,HTML,CSS,画像が切り替わる機能
+Rails,Ruby,HTML,CSS,画像が切り替わる機能,Midjourney
