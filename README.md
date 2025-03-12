@@ -42,7 +42,7 @@ Rails,Ruby,HTML,CSS,画像が切り替わる機能,Midjourney
 
 
 ### 画面遷移図
-Figma：https://www.figma.com/design/g2lYWNisWJCytgEgIJG5eT/%E7%84%A1%E9%A1%8C?node-id=0-1&t=BoJ5pkklcbgBK5gH-1
+Figma：https://www.figma.com/design/g2lYWNisWJCytgEgIJG5eT/%E7%84%A1%E9%A1%8C?node-id=0-1&t=ish7m7ftKln1GphB-1
 
 ### READMEに記載した機能
 - [✔] ユーザー登録機能
