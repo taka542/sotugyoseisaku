@@ -66,7 +66,7 @@ Figma：https://www.figma.com/design/g2lYWNisWJCytgEgIJG5eT/%E7%84%A1%E9%A1%8C?n
 
 ### ER図
 （ER図のスクリーンショットの画像）
-[![Image from Gyazo](https://i.gyazo.com/05317ac984f6e3d22c91f59bba3c2760.png)](https://gyazo.com/05317ac984f6e3d22c91f59bba3c2760)
+[![Image from Gyazo](https://i.gyazo.com/06f5a08560809dfd398683ded725cfc0.png)](https://gyazo.com/06f5a08560809dfd398683ded725cfc0)
 
 ### 本サービスの概要（700文字以内）
 １つの英単語とその訳、この英単語を使った１つの英例文とその訳、が１日ごとに切り替わる。
